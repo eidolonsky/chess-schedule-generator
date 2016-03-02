@@ -216,7 +216,7 @@ b3.grid(row=1,column=2)
 Label(root,text="Confirm after input a name").grid(columnspan=2,sticky=W)
 
 namelist = []
-n = 5112019028	
+n = 19921003
 
 mainloop()
 
